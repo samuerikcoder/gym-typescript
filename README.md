@@ -2,7 +2,7 @@
 
 Este repositório contém um projeto de academia desenvolvido com as seguintes tecnologias: Vite, TypeScript, React e Tailwind CSS. É importante observar que este projeto não é de minha autoria, mas sim resultado de um tutorial encontrado no YouTube. Eu o implementei com o propósito de aprimorar minhas habilidades de desenvolvimento e para fins didáticos.
 
-[Clique aqui]() para visualizar o deploy do projeto.
+[Clique aqui](https://gym-typescript-samuerikcoder.netlify.app/) para visualizar o deploy do projeto.
 
 ## Descrição
 
